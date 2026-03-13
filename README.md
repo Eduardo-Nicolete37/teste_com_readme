@@ -15,7 +15,6 @@ Abaixo, apresento a estrutura de colunas utilizando textos de preenchimento e as
       <strong>Lógica:</strong> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/8158d01e-73d0-44ec-a557-34b18cffae23" width="270">
     </td>
   </tr>
 </table>
@@ -30,8 +29,6 @@ Abaixo, apresento a estrutura de colunas utilizando textos de preenchimento e as
       <strong>Lógica:</strong> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/5124cd33-802c-4796-baeb-e0ee04319687" width="270">
-    </td>
   </tr>
 </table>
 
@@ -45,7 +42,6 @@ Abaixo, apresento a estrutura de colunas utilizando textos de preenchimento e as
       <strong>Lógica:</strong> Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/092d34c4-1d6a-4186-be9a-8a6ca8c10e73" width="350">
     </td>
   </tr>
 </table>
